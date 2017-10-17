@@ -101,4 +101,4 @@ console.log(score);
 
 // Results: Player One score=332
 // Results: Player Two score=419.5
-// Results: Player One score=900
+// Results: Player Three score=900
